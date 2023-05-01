@@ -1,0 +1,14 @@
+My skills:
+Postman
+Dev Tools
+VPN
+Mobile Testing
+Android Studio
+SQL
+Test documentation creation
+Web testing
+Cross browser testing
+Test design
+Jmeter
+Scrum
+Redmine
