@@ -1,0 +1,20 @@
+TXT
+
+1. Create an external repository named TXT.
+2. Clone the TXT repository to the local computer.
+3. Create a "new.txt" file inside the local TXT.
+4. Add the file under Git.
+5. Commit the file.
+6. Send the file to the external GitHub repository.
+7. Edit the content of the "new.txt" file - write information about yourself (name, age, number of pets, desired future salary). Write everything in TXT format.
+8. Send changes to the external repository.
+9. Create a file named "preferences.txt"
+10. Add information about your preferences (favorite movie, favorite TV show, favorite food, favorite season, side of the world you would like to visit) in "preferences.txt" file in TXT format.
+11. Create a file named "skills.txt" and add information about the skills that will be learned in the course in TXT format.
+12. Make a commit in one line.
+13. Send 2 files to the external repository at once.
+14. On the web interface, create a file named "bug_report.txt".
+15. Commit changes to the web interface and save changes in "bug_report.txt".
+16. Modify the "bug_report.txt" file on the web interface by adding a bug report in TXT format.
+17. Commit changes to the web interface and save changes in "bug_report.txt".
+18. Synchronize the external and local TXT repositories.
