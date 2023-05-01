@@ -1,0 +1,18 @@
+JSON
+4. Create an external repository named JSON.
+5. Clone the JSON repository to the local computer.
+6. Inside the local JSON, create a file named "new.json".
+7. Add the file under Git.
+8. Commit the file.
+9. Send the file to the external GitHub repository.
+10. Edit the contents of the "new.json" file - write information about yourself (full name, age, number of pets, desired future salary). Write everything in JSON format.
+11. Send the changes to the external repository.
+12. Create the "preferences.json" file.
+13. In the "preferences.json" file, add information about your preferences (favorite movie, favorite TV show, favorite food, favorite season, side of the world you would like to visit) in JSON format.
+14. Create the "skills.json" file and add information about the skills that will be learned in the course in JSON format.
+15. Send both files to the external repository.
+16. On the web interface, create the "bug_report.json" file.
+17. Commit changes to save the changes on the web interface.
+18. Modify the "bug_report.json" file on the web interface by adding a bug report in JSON format.
+19. Commit changes to save the changes on the web interface.
+20. Synchronize the external and local JSON repositories.
