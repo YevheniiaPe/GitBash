@@ -1,0 +1,10 @@
+<id>1</id>
+    <Summary>The trading history, wallet balance, and open positions in the 'Trade' section (23) are not reset after tapping the 'Reset Achievements' button (24.10)</Summary>
+    <Priority>High</Priority>
+    <Severity>Critical</Severity>
+    <Environment>Android 11</Environment>
+    <Steps_to_reproduce_1>1. Tap the 'Reset Achievements' button (24.10).</Steps_to_reproduce_1>                          
+    <Steps_to_reproduce_2>2. In the modal window 'Reset Achievements' (33), tap the 'Reset' button (33.1).</Steps_to_reproduce_2>
+    <Steps_to_reproduce_3>3. Go back to the 'Trade' section (23) by tapping the 'Chart' button (4.2)</Steps_to_reproduce_3>
+    <Actual_result>The wallet balance is not reset and shows the previous value. The open positions are still displayed</Actual_result>
+    <Expected_result>Any previously opened positions should be closed</Expected_result>
