@@ -1,0 +1,11 @@
+{	
+	"Name":"Yevheniia",
+	"Surname":"Petrenko",
+	"age": 30,
+	"Pet":{
+		"Pet_type":"parrot",
+		"Pet_name":"Rikky",
+		"Pet_age":2
+		},
+	"Salary":"1000$"
+}
