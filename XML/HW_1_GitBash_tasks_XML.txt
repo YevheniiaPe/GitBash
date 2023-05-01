@@ -1,0 +1,19 @@
+XML
+21. Create an external repository named XML.
+22. Clone the XML repository to the local computer.
+23. Inside the local XML, create a file named "new.xml".
+24. Add the file under Git.
+25. Commit the file.
+26. Send the file to the external GitHub repository.
+27. Edit the contents of the "new.xml" file - write information about yourself (full name, age, number of pets, desired future salary). Write everything in XML format.
+28. Send the changes to the external repository.
+29. Create the "preferences.xml" file.
+30. In the "preferences.xml" file, add information about your preferences (favorite movie, favorite TV show, favorite food, favorite season, side of the world you would like to visit) in XML format.
+31. Create the "skills.xml" file and add information about the skills that will be learned in the course in XML format.
+32. Make a commit in a single line.
+33. Send both files to the external repository.
+34. On the web interface, create the "bug_report.xml" file.
+35. Commit changes to save the changes on the web interface.
+36. Modify the "bug_report.xml" file on the web interface by adding a bug report in XML format.
+37. Commit changes to save the changes on the web interface.
+38. Synchronize the external and local XML repositories.
